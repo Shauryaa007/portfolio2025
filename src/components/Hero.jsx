@@ -27,7 +27,7 @@ const Hero = () => {
         <section id="hero" className="hero-section">
             <div className="hero-content fade-in-up">
                 <div className="hero-text">
-                    <h1 className="hero-title">Hello, I'm <span className="highlight">Shaurya</span></h1>
+                    <h1 className="hero-title">Hi, I'm <span className="highlight">Shaurya</span></h1>
                     <h2 className="hero-subtitle">
                         <span style={{ fontWeight: 'bold' }}>
                             <Typewriter
