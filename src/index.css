@@ -357,6 +357,13 @@ body {
     color: var(--text-muted);
 }
 
+.yt-buttons {
+    display: flex;
+    flex-direction: column;
+    gap: 1rem;
+}
+
+
 /* Skills Grid */
 .skills-grid {
     display: grid;

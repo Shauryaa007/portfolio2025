@@ -33,7 +33,10 @@ const YouTube = () => {
                         <span className="label">Views</span>
                     </div>
                 </div>
-                <a href="https://www.youtube.com/@Shauryaaa007?sub_confirmation=1" className="btn btn-youtube" target="_blank">Visit Channel</a>
+                <div className="yt-buttons">
+                    <a href="https://www.youtube.com/@Shauryaaa007?sub_confirmation=1" className="btn btn-youtube" target="_blank">Visit Channel</a>
+                    <a href="https://shauryaa.vercel.app/" className="btn btn-youtube" target="_blank">Visit Website</a>
+                </div>
             </div>
         </section>
     );
